@@ -5,8 +5,6 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
-
 public class IssueReplyUser {
     private static final String repositoryName = "whiteship/live-study";
     private static final String myPersonalToken = "";
